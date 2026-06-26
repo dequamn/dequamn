@@ -1,6 +1,6 @@
 <div align="center">
 
-# Danila
+# Dequamn
 
 ### Full Stack Engineer • TypeScript • Building Modern Web Products
 
