@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # Danila
@@ -129,40 +128,6 @@ Fast, responsive websites optimized for SEO and conversion.
 
 ---
 
-# 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dequamn&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-# 🤝 Connect
-
-<p align="left">
-
-<a href="https://github.com/dequamn">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<!-- Uncomment if needed
-
-<a href="https://t.me/YOUR_TELEGRAM">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
--->
-
-</p>
-
----
-
 <div align="center">
 
 ### Thanks for visiting 👋
@@ -170,4 +135,3 @@ Fast, responsive websites optimized for SEO and conversion.
 *"Code is not just about solving problems. It's about building products people love."*
 
 </div>
-```
